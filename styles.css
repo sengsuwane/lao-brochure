@@ -20,20 +20,20 @@ img {
 }
 
 .reason-img:hover {
-    background-image: url("/images/buggyride.jpg");
+    background-image: url("buggyride.jpg");
 }
 .reason-img2:hover {
-    background-image: url("/images/market.jpg");
+    background-image: url("market.jpg");
 }
 .reason-img3:hover {
-    background-image: url("/images/vv2-2.jpg");
+    background-image: url("vv2-2.jpg");
 }
 .reason-img4:hover {
-    background-image: url("/images/lao2019-00233.jpg");
+    background-image: url("lao2019-00233.jpg");
 }
 
 #hero {
-    background-image: url("/images/laosbackground.jpg");
+    background-image: url("laosbackground.jpg");
     background-size: cover;
     height: 255px;
     padding-top: 5px;
@@ -104,7 +104,7 @@ footer {
     width: 130px;
     height: 100px;
     border-radius: 10px;
-    background-image: url("/images/buggyrides.jpg");
+    background-image: url("buggyrides.jpg");
     background-size: cover;
 }
 
@@ -113,7 +113,7 @@ footer {
     width: 130px;
     height: 100px;
     border-radius: 10px;
-    background-image: url("/images/swimming.jpg");
+    background-image: url("swimming.jpg");
     background-size: cover;
 }
 
@@ -122,7 +122,7 @@ footer {
     width: 140px;
     height: 100px;
     border-radius: 10px;
-    background-image: url("/images/lao2019-09621.jpg");
+    background-image: url("lao2019-09621.jpg");
     background-size: cover;
 }
 
@@ -131,7 +131,7 @@ footer {
     height: 150px;
     width: 200px;
     border-radius: 10px;
-    background-image: url("/images/wherelyfetakesme-3.jpg");
+    background-image: url("wherelyfetakesme-3.jpg");
     background-size: cover;
     margin-bottom: 10px;
 }
